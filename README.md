@@ -1,5 +1,7 @@
 ### 
 
+
+![](https://github.com/maddieannette/maddieannette/blob/main/maddie.gif)
 <!--
 **maddieannette/maddieannette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
