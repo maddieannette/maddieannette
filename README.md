@@ -13,8 +13,6 @@
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
-<br>
----
 
 ### About Me
 I'm a data analyst currently working remotely in Austin, Texas in the healthcare sector. My current day-to-day consists of utilizing R programming and SQL databases to pull ad-hoc reports. I'm detailed and thorough to ensure the data is reflected correctly and analyzed effectively. Thorough knowledge and understanding of HIPAA procedures and policies. While also ensuring management and clients are given the data that they need. Responsible for the creation/upkeep of various automated reports I have created over time. Able to communicate data analysis conclusions and work effectively with colleagues of various backgrounds and departments.
