@@ -18,4 +18,4 @@ I'm a data analyst currently working remotely in Austin, Texas in the healthcare
 
 
 
-[![Maddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddieannette)](https://github.com/anuraghazra/github-readme-stats)
+[![Maddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddieannette&theme=cobalt&show_icons=true)](https://github.com/maddieannette?tab=repositories)
