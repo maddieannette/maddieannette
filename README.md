@@ -22,5 +22,3 @@
 I'm a data analyst currently working remotely in Austin, Texas in the healthcare sector. My current day-to-day consists of utilizing R programming and SQL databases to pull ad-hoc reports. I'm detailed and thorough to ensure the data is reflected correctly and analyzed effectively. Thorough knowledge and understanding of HIPAA procedures and policies. While also ensuring management and clients are given the data that they need. Responsible for the creation/upkeep of various automated reports I have created over time. Able to communicate data analysis conclusions and work effectively with colleagues of various backgrounds and departments.
 
 ---
-
-[![Maddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=maddieannette&theme=cobalt&show_icons=true)](https://github.com/maddieannette?tab=repositories)
